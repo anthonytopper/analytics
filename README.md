@@ -1,7 +1,8 @@
 # Analytics
-
 A basic web-based analytics engine
-----------------------------------
+
+Usage
+-----
 Only one javascript import is needed, and reporting automatically begins once the page loads. 
 Specific events can be tracked as well, such as an outgoing URL click event. Assign your own event ID, and trigger javascript to log it:
 ```javascipt
